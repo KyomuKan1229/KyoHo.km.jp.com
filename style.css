@@ -1,0 +1,71 @@
+.title {
+    font-size: 20px;
+    color:rgb(60, 141, 141);
+    text-align: center;
+    padding-top: 20px;
+    background-color: rgb(199, 227, 227);
+    height: 60px;
+}
+.kyoho {
+    color: rgb(85, 198, 160);
+    font-size: 25px;
+}
+html{
+    font-family: "Century Gothic","ヒラギノ角ゴ ProN W3","Hiragino Kaku Gothic ProN",
+                游ゴシック体,YuGothic,"Yu Gothic",メイリオ,Meiryo,"ＭＳＰゴシック",sans-serif;
+}
+/*class名_アルファベットのアルファベットの部分で区別しています*/
+
+/*ct(content(目次))群*/
+.ct {
+  background-color: rgb(129, 235, 210);
+  font-size: 30px;
+  color: rgb(88, 121, 121);
+  font-weight: 600;
+}
+.ct_1 {
+  background-color: rgb(133, 206, 231);
+  font-size: 30px;
+  color: rgb(104, 140, 152);
+}
+.ct_2 {
+  background-color: rgb(100, 194, 225);
+  font-size: 30px;
+  color: rgb(104, 140, 152);
+}
+.ct_3 {
+  background-color: rgb(73, 200, 242);
+  font-size: 30px;
+  color: rgb(104, 140, 152);
+}
+.ct_4 {
+  background-color: rgb(183, 221, 234);
+  font-size: 30px;
+  color: rgb(104, 140, 152);
+}
+
+/*el(explain(←英語で説明))群*/
+.kyoho_el {
+  font-size: 30px;
+  color:rgb(85, 198, 160);
+  font-weight:600;/*font-weightは太さ設定*/
+  background-color: rgb(63, 146, 118);
+}
+.kenmori_el {
+  font-size: 30px;
+  font-weight:600;
+  color:#92ed00;
+  background-color: #6db100;
+}
+.minecraft_el {
+  font-size: 13px;
+}
+.setumei_el {
+  font-size: 25px;
+  text-decoration: underline;
+  background-color: rgb(205, 103, 25);
+  color: rgb(249, 184, 134);
+}
+.setumei_el_x {
+  font-size: 13px;
+}
